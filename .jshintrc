@@ -1,0 +1,5 @@
+{
+    "devel" : true,
+    "strict": false,
+	"expr": true
+}
